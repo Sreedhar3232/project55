@@ -7,7 +7,7 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** -https://white-dune-089888a00.2.azurestaticapps.net/
-**project demo video link**-
+**project demo video link** -https://photos.app.goo.gl/yArHkdZcNj1BRjkbA
 
 ## Azure technologies used for Project
 - Static web apps
