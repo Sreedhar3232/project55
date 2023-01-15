@@ -6,8 +6,8 @@ This is a web based application developed for health related based website in in
 ### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-*Project Link* -https://white-dune-089888a00.2.azurestaticapps.net/
-*project demo video link* -https://youtu.be/y9w3WH932B0
+**Project Link** -https://white-dune-089888a00.2.azurestaticapps.net/
+**project demo video link** -https://youtu.be/y9w3WH932B0
 
 ## Azure technologies used for Project
 - Static web apps
